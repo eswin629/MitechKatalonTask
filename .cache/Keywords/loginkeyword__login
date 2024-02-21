@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "5575B1680B682E430687AFFF2B424932",
+  "keywordClasses": [
+    {
+      "name": "loginkeyword.Login",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

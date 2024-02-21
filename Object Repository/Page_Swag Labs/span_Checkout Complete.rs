@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Checkout Complete</name>
+   <tag></tag>
+   <elementGuidId>2082dec1-8297-4f62-9b8d-17dbb4341ff6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Checkout: Complete!' or . = 'Checkout: Complete!')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header_container']/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cd26ee16-86ed-4f66-9ae9-05e8898d7a4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>811d82b1-0f70-4c37-901f-ea8ee454ed58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checkout: Complete!</value>
+      <webElementGuid>1fccf771-d205-458a-8166-08852a6eb86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header_container&quot;)/div[@class=&quot;header_secondary_container&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>54ca13b3-c77f-4ead-8313-13b4ef469a20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header_container']/div[2]/span</value>
+      <webElementGuid>22e66339-7034-496c-9e4e-dfb401c6b1de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::span[1]</value>
+      <webElementGuid>13050597-b28b-4b0c-bed1-aae7369fdb53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::span[1]</value>
+      <webElementGuid>0a9da58a-6797-4499-a9a4-693054c91e6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for your order!'])[1]/preceding::span[1]</value>
+      <webElementGuid>9b2d101f-7810-42d0-88fb-86d0838bbc3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your order has been dispatched, and will arrive just as fast as the pony can get there!'])[1]/preceding::span[1]</value>
+      <webElementGuid>faac2883-8e62-4fd7-918c-3691427fb3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Checkout: Complete!']/parent::*</value>
+      <webElementGuid>aa40f813-5094-4f2a-945d-540763cffb85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>cf9ba221-5520-4440-a922-f351f603e0f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Checkout: Complete!' or . = 'Checkout: Complete!')]</value>
+      <webElementGuid>db4f1212-a43d-4eae-8d60-cae7c610844e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

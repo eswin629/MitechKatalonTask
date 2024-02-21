@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Product</name>
+   <tag></tag>
+   <elementGuidId>9c510348-2f30-47a2-af97-5a02a46af360</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[(text() = 'Sauce Labs Backpack' or . = 'Sauce Labs Backpack')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>productName</name>
+      <type>Main</type>
+      <value>${productName}</value>
+      <webElementGuid>a7548722-a06c-41d2-bf67-22ffe0ae8279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0a8116a4-1de3-448e-a7d4-c574bb48cbbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sauce Labs Backpack</value>
+      <webElementGuid>c5fae566-5f01-46bf-a360-ebf2836f92b3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
